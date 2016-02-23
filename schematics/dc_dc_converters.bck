@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MEE1S1212SC
+D Converts 10.8V to 13.2V into isolated 12V.
+$ENDCMP
+#
+#End Doc Library
